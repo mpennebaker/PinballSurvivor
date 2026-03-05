@@ -1,3 +1,4 @@
+image_angle = point_direction(0, 0, dirX, dirY);
 x += dirX * moveSpeed;
 y += dirY * moveSpeed;
 
