@@ -1,0 +1,19 @@
+# GameMaker build output and cache
+.cache/
+Temp/
+builds/
+GMBackups/
+logs/
+
+# Compiled output
+*.exe
+*.zip
+*.7z
+*.yyz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code internal files
+.claude/
